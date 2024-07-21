@@ -281,7 +281,7 @@ span{
     right: 1%;
 
 }
-
+/* Top y right solo se puede dar si esta - position fixek */
 #whatsapp a{
     background: none;
     position: fixed;
