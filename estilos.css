@@ -14,9 +14,10 @@ header{
     background-size: cover;
 }
 .Green{
-margin-top: 20px;
+margin-top: 15px;
 border-radius: 20px;
-width: 16%;
+width: 20%;
+
 }
 
 .contenedor{
@@ -74,6 +75,10 @@ a{
     background: hsl(210, 85%, 65%); /*Se define color de fondo del boton 210*/
     padding: 10px 10px 10px 10px; /*Se define tamaño interno del boton*/
     transition: 1s; /*Tiempo de transicion*/
+}
+
+.mi_boton{
+    margin: 0;
 }
 
 .lista a:hover{
