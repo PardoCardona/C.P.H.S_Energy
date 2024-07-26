@@ -140,6 +140,7 @@ h3{
     border-radius: 10px;  /*borde redondeado de un elemento*/
     margin-bottom: 40px;  /*Nos permite separar un elemento de otro, dando un espaciada hacia abajo*/
     color: #fff;  /*Color de fuente*/
+    text-align: center;
 }
 
 .violeta{
@@ -151,9 +152,14 @@ h3{
 }
 
 .servicio h4{
-    font-size: 30px;  /*Se define el tamaño de fuente*/
-    margin: 0; /*Se deja el margen en 0, para quitar los espacios */
+    font-size: 25px;  /*Se define el tamaño de fuente*/
+    margin-bottom: 15px ; /*Se deja el margen en 0, para quitar los espacios */
+    color: red
 }
+
+
+
+
 
 .servicio a{
     float: right;  /*De esta forma movemos el icono hacia la derecha*/
@@ -162,6 +168,10 @@ h3{
 .servicio p{
     font-size: 20px;  /*Se define el tamaño de fuente*/
     height: 200px; /*De esta forma los iconos tienen una altura fija.*/
+}
+
+.servicio img{
+    border-radius: 20px;
 }
 
 span{
