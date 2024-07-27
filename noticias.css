@@ -141,14 +141,15 @@ h3{
     margin-bottom: 40px;  /*Nos permite separar un elemento de otro, dando un espaciada hacia abajo*/
     color: #fff;  /*Color de fuente*/
     text-align: center;
+    box-shadow: 1px 1px 14px rgb(56, 4, 244);
 }
 
 .violeta{
-    background:#5055df ;  /*Color de fondo*/
+    background:#fcfcfd ;  /*Color de fondo*/
 }
 
 .celeste{
-    background:#40a8fa ; /*Color de fondo*/
+    background:#fcfcfd ; /*Color de fondo*/
 }
 
 .servicio h4{
