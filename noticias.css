@@ -355,7 +355,8 @@ h2{
 }
 
 h3{
-    font-size:46px;
+    /* font-size:46px; */
+    font-size:30px;
 }
 
 .contenedor-porque{

@@ -11,7 +11,7 @@ body{
 header{
     background: url(recursos/fondo12.jpg);
     height: 100vh;
-    background-size: cover;
+    /* background-size: cover; */
 }
 .Green{
 margin-top: 15px;
@@ -355,7 +355,8 @@ h2{
 /*Seccion mis trabajos*/
 
 h3{
-    font-size:46px;
+    /* font-size:46px; */
+    font-size:30px;
 }
 
 /*Seccion mis trabajos*/
