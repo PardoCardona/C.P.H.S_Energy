@@ -144,6 +144,10 @@ h3{
     box-shadow: 1px 1px 14px rgb(244, 4, 4);
 }
 
+.azul{
+    box-shadow: 1px 1px 14px rgb(76, 4, 244); 
+}
+
 .violeta{
     background:#fcfcfd ;  /*Color de fondo*/
 }
